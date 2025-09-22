@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu/menu.unity
+    guid: ef8a60d6622bb404087a5ddf43065397
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/level01.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/level02.unity
+    guid: f94b6cb4262abdd42ada114bca9eef4f
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/level03.unity
+    guid: 1f0363f37e47afd449bdfb8d2b0b1b43
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: be61cf9474394f645a27d335ada7e64a
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/level04.unity
+    guid: 6abfef7b2a2ce004ba517f324690a56a
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL05.unity
+    guid: 398fe215e6da67148bdfea5af123a5e0
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL06.unity
+    guid: ec4a48117c5144c4e8802fca3f64d995
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL07.unity
+    guid: 4c454e8a0b720b44488b5b1390f63277
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL08.unity
+    guid: 0086079a30610e044a5a6bd65cb4e480
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL09.unity
+    guid: 3b8ca4fddf6109545ba83b86b41c05d7
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL10.unity
+    guid: 3ce4c15e3a9dcaa41887f77dd1a65198
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL11.unity
+    guid: 33f3820b627a56a438bc942bdf8814e3
+  - enabled: 1
+    path: Assets/Scenes/menu/glavi.unity
+    guid: 148fea48789804d43a7de0c88e888528
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL12.unity
+    guid: 054a8f084881d6841964ca9e1d9eccaa
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL13.unity
+    guid: 9e244a71bf3b99c41a72e9c60e9f7847
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL14.unity
+    guid: 10203067a5d8f504caa8c2fc0b7ec5b3
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL15.unity
+    guid: f6c2815bdd4a72a4d8603a621142a84b
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL16.unity
+    guid: 2dacd36e1026822458dc3dd9c131d601
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL17.unity
+    guid: 2b3859d0ee914554bb258a82b33ab01c
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL18.unity
+    guid: fe3f4bc41daa3dd41ad0314b7be1bee5
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL19.unity
+    guid: 9b4b3085101d3e14a84d90905f08394c
+  - enabled: 1
+    path: Assets/Scenes/GLAVA1/LEVEL20.unity
+    guid: 69044d5cfa4519944a132fa7e7e795ad
+  m_configObjects: {}

@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 6893b4a92358217498a782c7cd40e9a9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 576
+        width: 677
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de64b9b814c668d4b820d5ff3e6938e5
+      internalID: -1027354844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_1
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 550
+        width: 216
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc436bb9173871e4f908378a803b9150
+      internalID: -346711955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 513
+        width: 648
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a751beeed2e8cc04da005eedffbac895
+      internalID: 1332346201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_3
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 559
+        width: 191
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68209885b80e4194ba7c851dabbfb384
+      internalID: 1670773016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 130
+        width: 740
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e0b138e2ddd8546a68397148596706
+      internalID: -406840619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 144
+        width: 648
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432024cd31abe1c47b1ef93fec9bad1b
+      internalID: 1962818434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_6
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 144
+        width: 397
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3d909b217f8645b518b574e03b9fe
+      internalID: -1347461676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_0: -1027354844
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_1: -346711955
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_2: 1332346201
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_3: 1670773016
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_4: -406840619
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_5: 1962818434
+      space-game-platform-cartoon-arcade-isolated-elements-spaceship-flying-rocks-alien-planets-computer-mobile-2d-gui-design-cosmos-adventure-universe-futuristic-illustration-set_6: -1347461676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

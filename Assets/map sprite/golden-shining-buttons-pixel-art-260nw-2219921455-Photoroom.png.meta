@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 976f73500be601042b4e033ddbe31edd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 252
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cddc926b34481243a1f3ac322f64382
+      internalID: -1782777086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f61c2c0b72473b4290c50fe2e70e6f6
+      internalID: 1988189013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 192
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c4ddeb8c6bfb04d993028cdbef90a6
+      internalID: 1609207585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3792b903da31f4da4b7cf3330df4e7
+      internalID: -993379274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11edaa8b1948ebc47a15a2225f2239fc
+      internalID: -200888118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 192
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73abd4a73a5b6848a1ca14ce551f44a
+      internalID: -472767758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 192
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1917b91d2ef8594ca467dc5fc7f7503
+      internalID: -1871531129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035c9336234035469ab3cb9d27f2efa
+      internalID: 660879972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 153
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6619957e9565d4282c4c561c830887
+      internalID: -572320538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9945f584b7d1757418d54d8f85f2fad5
+      internalID: -1765646173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 153
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d671063803e1d458fd7aebf4f7e675
+      internalID: -216316058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 150
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43528bc3fb145c4f944d5af0b05fba7
+      internalID: -1573575606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 153
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac0d39e733b2342917cbcda54f9206
+      internalID: 1370833682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 153
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706eb7b0e26963408adc5b6ae668099
+      internalID: -1892863031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 114
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79bb22225ab2f45a58761293deb82e
+      internalID: 1088744349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370dae6693f1c184f9a0998e1da12328
+      internalID: 148338724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 114
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db965f1d09eac14ab38ac81666f31f9
+      internalID: 1157551567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 114
+        width: 82
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a9a85000adadf4a9f28c43da8772a0
+      internalID: -435084051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647acd02a2dbdb24aaf350ff13e7b20e
+      internalID: 1435046615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 74
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893478a0518edc8429f23271b2622a45
+      internalID: -1627498828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 110
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c48b3f328b7f4ba94a318f119374d
+      internalID: 1003177978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 74
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10411a57cbaa801489d3666d28506eb0
+      internalID: 1348703779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 74
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641095be9573d34396a64772519100b
+      internalID: -1883474044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fbea6e8f24064b860ef55460d01e3
+      internalID: -324185065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 74
+        width: 84
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9006262e4df02fd43b5ffb5642e55803
+      internalID: 1855927074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 74
+        width: 85
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909029f508a2c2343b028c375e886e1c
+      internalID: -1957679809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 74
+        width: 81
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2317f41dfba8da846a3bb3b7eee82334
+      internalID: 500652485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eb94df4c25f1d49b72ea14a944ac51
+      internalID: -602820502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668716f07592ea54ba02ef3f34520dad
+      internalID: -1731948811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dda822b4d2e3149b8635afae8ba97a
+      internalID: 694185020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7baf457af1d8974a94c94620365ad2f
+      internalID: 93848851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_0: -1782777086
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_1: 1988189013
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_10: -216316058
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_11: -1573575606
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_12: 1370833682
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_13: -1892863031
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_14: 1088744349
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_15: 148338724
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_16: 1157551567
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_17: -435084051
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_18: 1435046615
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_19: -1627498828
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_2: 1609207585
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_20: 1003177978
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_21: 1348703779
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_22: -1883474044
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_23: -324185065
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_24: 1855927074
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_25: -1957679809
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_26: 500652485
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_27: -602820502
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_28: -1731948811
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_29: 694185020
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_3: -993379274
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_30: 93848851
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_4: -200888118
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_5: -472767758
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_6: -1871531129
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_7: 660879972
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_8: -572320538
+      golden-shining-buttons-pixel-art-260nw-2219921455-Photoroom_9: -1765646173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
